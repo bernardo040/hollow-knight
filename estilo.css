@@ -2,8 +2,8 @@
 
 
 body{
-    background-color: aliceblue;
-    color: darkblue;
+    background-color: darkblue;
+    color: aliceblue;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,8 +11,8 @@ body{
     font-family: "Playfair Display", serif;
 }
 button{
-    background-color: aliceblue;
-    color: darkblue;
+    background-color: darkblue;
+    color: aliceblue;
     padding: 20px;
 }
 main{
